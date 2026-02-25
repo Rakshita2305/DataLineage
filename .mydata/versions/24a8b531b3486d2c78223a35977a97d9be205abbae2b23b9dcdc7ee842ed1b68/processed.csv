@@ -1,0 +1,184 @@
+passengerid,survived,pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked
+2,1,1,cumings mrs john bradley florence briggs thayer,female,38.0,1,0,pc 17599,71.2833,c85,c
+4,1,1,futrelle mrs jacques heath lily may peel,female,35.0,1,0,113803,53.1,c123,s
+7,0,1,mccarthy mr timothy j,male,54.0,0,0,17463,51.8625,e46,s
+11,1,3,sandstrom miss marguerite rut,female,4.0,1,1,pp 9549,16.7,g6,s
+12,1,1,bonnell miss elizabeth,female,58.0,0,0,113783,26.55,c103,s
+22,1,2,beesley mr lawrence,male,34.0,0,0,248698,13.0,d56,s
+24,1,1,sloper mr william thompson,male,28.0,0,0,113788,35.5,a6,s
+28,0,1,fortune mr charles alexander,male,19.0,3,2,19950,263.0,c23 c25 c27,s
+53,1,1,harper mrs henry sleeper myna haxtun,female,49.0,1,0,pc 17572,76.7292,d33,c
+55,0,1,ostby mr engelhart cornelius,male,65.0,0,1,113509,61.9792,b30,c
+63,0,1,harris mr henry birkhardt,male,45.0,1,0,36973,83.475,c83,s
+67,1,2,nye mrs elizabeth ramell,female,29.0,0,0,c a 29395,10.5,f33,s
+76,0,3,moen mr sigurd hansen,male,25.0,0,0,348123,7.65,f g73,s
+89,1,1,fortune miss mabel helen,female,23.0,3,2,19950,263.0,c23 c25 c27,s
+93,0,1,chaffee mr herbert fuller,male,46.0,1,0,w e p 5734,61.175,e31,s
+97,0,1,goldschmidt mr george b,male,71.0,0,0,pc 17754,34.6542,a5,c
+98,1,1,greenfield mr william bertram,male,23.0,0,1,pc 17759,63.3583,d10 d12,c
+103,0,1,white mr richard frasar,male,21.0,0,1,35281,77.2875,d26,s
+111,0,1,porter mr walter chamberlain,male,47.0,0,0,110465,52.0,c110,s
+119,0,1,baxter mr quigg edmond,male,24.0,0,1,pc 17558,247.5208,b58 b60,c
+124,1,2,webber miss susan,female,32.5,0,0,27267,13.0,e101,s
+125,0,1,white mr percival wayland,male,54.0,0,1,35281,77.2875,d26,s
+137,1,1,newsom miss helen monypeny,female,19.0,0,2,11752,26.2833,d47,s
+138,0,1,futrelle mr jacques heath,male,37.0,1,0,113803,53.1,c123,s
+140,0,1,giglio mr victor,male,24.0,0,0,pc 17593,79.2,b86,c
+149,0,2,navratil mr michel louis m hoffman,male,36.5,0,2,230080,26.0,f2,s
+152,1,1,pears mrs thomas edith wearne,female,22.0,1,0,113776,66.6,c2,s
+171,0,1,van der hoef mr wyckoff,male,61.0,0,0,111240,33.5,b19,s
+175,0,1,smith mr james clinch,male,56.0,0,0,17764,30.6958,a7,c
+178,0,1,isham miss ann elizabeth,female,50.0,0,0,pc 17595,28.7125,c49,c
+184,1,2,becker master richard f,male,1.0,2,1,230136,39.0,f4,s
+194,1,2,navratil master michel m,male,3.0,1,1,230080,26.0,f2,s
+195,1,1,brown mrs james joseph margaret tobin,female,44.0,0,0,pc 17610,27.7208,b4,c
+196,1,1,lurette miss elise,female,58.0,0,0,pc 17569,146.5208,b80,c
+206,0,3,strom miss telma matilda,female,2.0,0,1,347054,10.4625,g6,s
+210,1,1,blank mr henry,male,40.0,0,0,112277,31.0,a31,c
+216,1,1,newell miss madeleine,female,31.0,1,0,35273,113.275,d36,c
+219,1,1,bazzani miss albina,female,32.0,0,0,11813,76.2917,d15,c
+225,1,1,hoyt mr frederick maxfield,male,38.0,1,0,19943,90.0,c93,s
+231,1,1,harris mrs henry birkhardt irene wallach,female,35.0,1,0,36973,83.475,c83,s
+246,0,1,minahan dr william edward,male,44.0,2,0,19928,90.0,c78,q
+249,1,1,beckwith mr richard leonard,male,37.0,1,1,11751,52.5542,d35,s
+252,0,3,strom mrs wilhelm elna matilda persson,female,29.0,1,1,347054,10.4625,g6,s
+253,0,1,stead mr william thomas,male,62.0,0,0,113514,26.55,c87,s
+258,1,1,cherry miss gladys,female,30.0,0,0,110152,86.5,b77,s
+263,0,1,taussig mr emil,male,52.0,1,1,110413,79.65,e67,s
+264,0,1,harrison mr william,male,40.0,0,0,112059,0.0,b94,s
+269,1,1,graham mrs william thompson edith junkins,female,58.0,0,1,pc 17582,153.4625,c125,s
+270,1,1,bissette miss amelia,female,35.0,0,0,pc 17760,135.6333,c99,s
+274,0,1,natsch mr charles h,male,37.0,0,1,pc 17596,29.7,c118,c
+276,1,1,andrews miss kornelia theodosia,female,63.0,1,0,13502,77.9583,d7,s
+292,1,1,bishop mrs dickinson h helen walton,female,19.0,1,0,11967,91.0792,b49,c
+293,0,2,levy mr rene jacques,male,36.0,0,0,sc paris 2163,12.875,d,c
+298,0,1,allison miss helen loraine,female,2.0,1,2,113781,151.55,c22 c26,s
+300,1,1,baxter mrs james helene delaudeniere chaput,female,50.0,0,1,pc 17558,247.5208,b58 b60,c
+306,1,1,allison master hudson trevor,male,0.92,1,2,113781,151.55,c22 c26,s
+308,1,1,penasco y castellana mrs victor de satode maria josefa perez de soto y vallejo,female,17.0,1,0,pc 17758,108.9,c65,c
+310,1,1,francatelli miss laura mabel,female,30.0,0,0,pc 17485,56.9292,e36,c
+311,1,1,hays miss margaret bechstein,female,24.0,0,0,11767,83.1583,c54,c
+312,1,1,ryerson miss emily borie,female,18.0,2,2,pc 17608,262.375,b57 b59 b63 b66,c
+319,1,1,wick miss mary natalie,female,31.0,0,2,36928,164.8667,c7,s
+320,1,1,spedden mrs frederic oakley margaretta corning stone,female,40.0,1,1,16966,134.5,e34,c
+326,1,1,young miss marie grice,female,36.0,0,0,pc 17760,135.6333,c32,c
+328,1,2,ball mrs ada e hall,female,36.0,0,0,28551,13.0,d,s
+330,1,1,hippach miss jean gertrude,female,16.0,0,1,111361,57.9792,b18,c
+332,0,1,partner mr austen,male,45.5,0,0,113043,28.5,c124,s
+333,0,1,graham mr george edward,male,38.0,0,1,pc 17582,153.4625,c91,s
+337,0,1,pears mr thomas clinton,male,29.0,1,0,113776,66.6,c2,s
+338,1,1,burns miss elizabeth margaret,female,41.0,0,0,16966,134.5,e40,c
+340,0,1,blackwell mr stephen weart,male,45.0,0,0,113784,35.5,t,s
+341,1,2,navratil master edmond roger,male,2.0,1,1,230080,26.0,f2,s
+342,1,1,fortune miss alice elizabeth,female,24.0,3,2,19950,263.0,c23 c25 c27,s
+346,1,2,brown miss amelia mildred,female,24.0,0,0,248733,13.0,f33,s
+357,1,1,bowerman miss elsie edith,female,22.0,0,1,113505,55.0,e33,s
+367,1,1,warren mrs frank manley anna sophia atkinson,female,60.0,1,0,110813,75.25,d37,c
+370,1,1,aubart mme leontine pauline,female,24.0,0,0,pc 17477,69.3,b35,c
+371,1,1,harder mr george achilles,male,25.0,1,0,11765,55.4417,e50,c
+378,0,1,widener mr harry elkins,male,27.0,0,2,113503,211.5,c82,c
+391,1,1,carter mr william ernest,male,36.0,1,2,113760,120.0,b96 b98,s
+394,1,1,newell miss marjorie,female,23.0,1,0,35273,113.275,d36,c
+395,1,3,sandstrom mrs hjalmar agnes charlotta bengtsson,female,24.0,0,2,pp 9549,16.7,g6,s
+413,1,1,minahan miss daisy e,female,33.0,1,0,19928,90.0,c78,q
+430,1,3,pickard mr berk berk trembisky,male,32.0,0,0,soton o q 392078,8.05,e10,s
+431,1,1,bjornstrom steffansson mr mauritz hakan,male,28.0,0,0,110564,26.55,c52,s
+435,0,1,silvey mr william baird,male,50.0,1,0,13507,55.9,e44,s
+436,1,1,carter miss lucile polk,female,14.0,1,2,113760,120.0,b96 b98,s
+439,0,1,fortune mr mark,male,64.0,1,4,19950,263.0,c23 c25 c27,s
+446,1,1,dodge master washington,male,4.0,0,2,33638,81.8583,a34,s
+450,1,1,peuchen major arthur godfrey,male,52.0,0,0,113786,30.5,c104,s
+453,0,1,foreman mr benjamin laventall,male,30.0,0,0,113051,27.75,c111,c
+454,1,1,goldenberg mr samuel l,male,49.0,1,0,17453,89.1042,c92,c
+457,0,1,millet mr francis davis,male,65.0,0,0,13509,26.55,e38,s
+461,1,1,anderson mr harry,male,48.0,0,0,19952,26.55,e12,s
+463,0,1,gee mr arthur h,male,47.0,0,0,111320,38.5,e63,s
+474,1,2,jerwan mrs amin s marie marthe thuillard,female,23.0,0,0,sc ah basle 541,13.7917,d,c
+485,1,1,bishop mr dickinson h,male,25.0,1,0,11967,91.0792,b49,c
+487,1,1,hoyt mrs frederick maxfield jane anne forby,female,35.0,1,0,19943,90.0,c93,s
+488,0,1,kent mr edward austin,male,58.0,0,0,11771,29.7,b37,c
+493,0,1,molson mr harry markland,male,55.0,0,0,113787,30.5,c30,s
+497,1,1,eustis miss elizabeth mussey,female,54.0,1,0,36947,78.2667,d20,c
+499,0,1,allison mrs hudson j c bessie waldo daniels,female,25.0,1,2,113781,151.55,c22 c26,s
+505,1,1,maioni miss roberta,female,16.0,0,0,110152,86.5,b79,s
+506,0,1,penasco y castellana mr victor de satode,male,18.0,1,0,pc 17758,108.9,c65,c
+513,1,1,mcgough mr james robert,male,36.0,0,0,pc 17473,26.2875,e25,s
+516,0,1,walker mr william anderson,male,47.0,0,0,36967,34.0208,d46,s
+517,1,2,lemore mrs amelia milley,female,34.0,0,0,c a 34260,10.5,f33,s
+521,1,1,perreault miss anne,female,30.0,0,0,12749,93.5,b73,s
+524,1,1,hippach mrs louis albert ida sophia fischer,female,44.0,0,1,111361,57.9792,b18,c
+537,0,1,butt major archibald willingham,male,45.0,0,0,113050,26.55,b38,s
+540,1,1,frolicher miss hedwig margaritha,female,22.0,0,2,13568,49.5,b39,c
+541,1,1,crosby miss harriet r,female,36.0,0,2,we p 5735,71.0,b22,s
+545,0,1,douglas mr walter donald,male,50.0,1,0,pc 17761,106.425,c86,c
+551,1,1,thayer mr john borland jr,male,17.0,0,2,17421,110.8833,c70,c
+557,1,1,duff gordon lady lucille christiana sutherland mrs morgan,female,48.0,1,0,11755,39.6,a16,c
+559,1,1,taussig mrs emil tillie mandelbaum,female,39.0,1,1,110413,79.65,e67,s
+572,1,1,appleton mrs edward dale charlotte lamson,female,53.0,2,0,11769,51.4792,c101,s
+573,1,1,flynn mr john irwin irving,male,36.0,0,0,pc 17474,26.3875,e25,s
+578,1,1,silvey mrs william baird alice munger,female,39.0,1,0,13507,55.9,e44,s
+582,1,1,thayer mrs john borland marian longstreth morris,female,39.0,1,1,17421,110.8833,c68,c
+584,0,1,ross mr john hugo,male,36.0,0,0,13049,40.125,a10,c
+586,1,1,taussig miss ruth,female,18.0,0,2,110413,79.65,e68,s
+588,1,1,frolicher stehli mr maxmillian,male,60.0,1,1,13567,79.2,b41,c
+592,1,1,stephenson mrs walter bertram martha eustis,female,52.0,1,0,36947,78.2667,d20,c
+600,1,1,duff gordon sir cosmo edmund mr morgan,male,49.0,1,0,pc 17485,56.9292,a20,c
+610,1,1,shutes miss elizabeth w,female,40.0,0,0,pc 17582,153.4625,c125,s
+619,1,2,becker miss marion louise,female,4.0,2,1,230136,39.0,f4,s
+622,1,1,kimball mr edwin nelson jr,male,42.0,1,0,11753,52.5542,d19,s
+626,0,1,sutton mr frederick,male,61.0,0,0,36963,32.3208,d50,s
+628,1,1,longley miss gretchen fiske,female,21.0,0,0,13502,77.9583,d9,s
+631,1,1,barkworth mr algernon henry wilson,male,80.0,0,0,27042,30.0,a23,s
+633,1,1,stahelin maeglin dr max,male,32.0,0,0,13214,30.5,b50,c
+642,1,1,sagesser mlle emma,female,24.0,0,0,pc 17477,69.3,b35,c
+646,1,1,harper mr henry sleeper,male,48.0,1,0,pc 17572,76.7292,d33,c
+648,1,1,simonius blumer col oberst alfons,male,56.0,0,0,13213,35.5,a26,c
+660,0,1,newell mr arthur webster,male,58.0,0,2,35273,113.275,d48,c
+663,0,1,colley mr edward pomeroy,male,47.0,0,0,5727,25.5875,e58,s
+672,0,1,davidson mr thornton,male,31.0,1,0,f c 12750,52.0,b71,s
+680,1,1,cardeza mr thomas drake martinez,male,36.0,0,1,pc 17755,512.3292,b51 b53 b55,c
+682,1,1,hassab mr hammad,male,27.0,0,0,pc 17572,76.7292,d49,c
+690,1,1,madill miss georgette alexandra,female,15.0,0,1,24160,211.3375,b5,s
+691,1,1,dick mr albert adrian,male,31.0,1,0,17474,57.0,b20,s
+699,0,1,thayer mr john borland,male,49.0,1,1,17421,110.8833,c68,c
+700,0,3,humblen mr adolf mathias nicolai olsen,male,42.0,0,0,348121,7.65,f g63,s
+701,1,1,astor mrs john jacob madeleine talmadge force,female,18.0,1,0,pc 17757,227.525,c62 c64,c
+702,1,1,silverthorne mr spencer victor,male,35.0,0,0,pc 17475,26.2875,e24,s
+708,1,1,calderhead mr edward pennington,male,42.0,0,0,pc 17476,26.2875,e24,s
+711,1,1,mayne mlle berthe antonine mrs de villiers,female,24.0,0,0,pc 17482,49.5042,c90,c
+713,1,1,taylor mr elmer zebley,male,48.0,1,0,19996,52.0,c126,s
+716,0,3,soholt mr peter andreas lauritz andersen,male,19.0,0,0,348124,7.65,f g73,s
+717,1,1,endres miss caroline louise,female,38.0,0,0,pc 17757,227.525,c45,c
+718,1,2,troutt miss edwina celia winnie,female,27.0,0,0,34218,10.5,e101,s
+725,1,1,chambers mr norman campbell,male,27.0,1,0,113806,53.1,e8,s
+731,1,1,allen miss elisabeth walton,female,29.0,0,0,24160,211.3375,b5,s
+738,1,1,lesurer mr gustave j,male,35.0,0,0,pc 17755,512.3292,b101,c
+742,0,1,cavendish mr tyrell william,male,36.0,1,0,19877,78.85,c46,s
+743,1,1,ryerson miss susan parker suzette,female,21.0,2,2,pc 17608,262.375,b57 b59 b63 b66,c
+746,0,1,crosby capt edward gifford,male,70.0,1,1,we p 5735,71.0,b22,s
+749,0,1,marvin mr daniel warner,male,19.0,1,0,113773,53.1,d30,s
+752,1,3,moor master meier,male,6.0,0,1,392096,12.475,e121,s
+760,1,1,rothes the countess of lucy noel martha dyer edwards,female,33.0,0,0,110152,86.5,b77,s
+764,1,1,carter mrs william ernest lucile polk,female,36.0,1,2,113760,120.0,b96 b98,s
+766,1,1,hogeboom mrs john c anna andrews,female,51.0,1,0,13502,77.9583,d11,s
+773,0,2,mack mrs mary,female,57.0,0,0,s o p p 3,10.5,e77,s
+780,1,1,robert mrs edward scott elisabeth walton mcmillan,female,43.0,0,1,24160,211.3375,b3,s
+782,1,1,dick mrs albert adrian vera gillespie,female,17.0,1,0,17474,57.0,b20,s
+783,0,1,long mr milton clyde,male,29.0,0,0,113501,30.0,d6,s
+790,0,1,guggenheim mr benjamin,male,46.0,0,0,pc 17593,79.2,b82 b84,c
+797,1,1,leader dr alice farnham,female,49.0,0,0,17465,25.9292,d17,s
+803,1,1,carter master william thornton ii,male,11.0,1,2,113760,120.0,b96 b98,s
+807,0,1,andrews mr thomas jr,male,39.0,0,0,112050,0.0,a36,s
+810,1,1,chambers mrs norman campbell bertha griggs,female,33.0,1,0,113806,53.1,e8,s
+821,1,1,hays mrs charles melville clara jennings gregg,female,52.0,1,1,12749,93.5,b69,s
+824,1,3,moor mrs beila,female,27.0,0,1,392096,12.475,e121,s
+836,1,1,compton miss sara rebecca,female,39.0,1,1,pc 17756,83.1583,e49,c
+854,1,1,lines miss mary conover,female,16.0,0,1,pc 17592,39.4,d28,s
+858,1,1,daly mr peter denis,male,51.0,0,0,113055,26.55,e17,s
+863,1,1,swift mrs frederick joel margaret welles barron,female,48.0,0,0,17466,25.9292,d17,s
+868,0,1,roebling mr washington augustus ii,male,31.0,0,0,pc 17590,50.4958,a24,s
+872,1,1,beckwith mrs richard leonard sallie monypeny,female,47.0,1,1,11751,52.5542,d35,s
+873,0,1,carlsson mr frans olof,male,33.0,0,0,695,5.0,b51 b53 b55,s
+880,1,1,potter mrs thomas jr lily alexenia wilson,female,56.0,0,1,11767,83.1583,c50,c
+888,1,1,graham miss margaret edith,female,19.0,0,0,112053,30.0,b42,s
+890,1,1,behr mr karl howell,male,26.0,0,0,111369,30.0,c148,c

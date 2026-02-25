@@ -1,0 +1,16 @@
+{
+  "cleanup_text": true,
+  "coerce_numeric_columns": true,
+  "collapse_spaces": true,
+  "drop_duplicates": true,
+  "drop_nulls": true,
+  "lowercase_text": true,
+  "normalize_unicode": true,
+  "null_fill_numeric": 0,
+  "null_fill_text": "",
+  "null_strategy": "drop_any",
+  "remove_punctuation": true,
+  "remove_urls": false,
+  "sort_rows": true,
+  "strip_text": true
+}

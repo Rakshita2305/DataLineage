@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-02-25T17:47:08+00:00",
+  "version_a": "24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68",
+  "version_b": "24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68",
+  "summary": {
+    "row_count_a": 183,
+    "row_count_b": 183,
+    "row_delta": 0,
+    "column_count_a": 12,
+    "column_count_b": 12,
+    "config_changed": false
+  },
+  "columns": {
+    "only_in_a": [],
+    "only_in_b": [],
+    "common": [
+      "age",
+      "cabin",
+      "embarked",
+      "fare",
+      "name",
+      "parch",
+      "passengerid",
+      "pclass",
+      "sex",
+      "sibsp",
+      "survived",
+      "ticket"
+    ]
+  },
+  "label_distribution": {
+    "a": {},
+    "b": {},
+    "changed": false
+  },
+  "hashes": {
+    "config_hash_a": "962a7f566650b3da7f552b833b9dd1cb7ffcc817feb4e0aa869294e9c42a171e",
+    "config_hash_b": "962a7f566650b3da7f552b833b9dd1cb7ffcc817feb4e0aa869294e9c42a171e",
+    "input_hash_a": "7d118fef8b6ccf7f81111877bc388536f7b1e498a655e3d649d19aaa010e9f6f",
+    "input_hash_b": "7d118fef8b6ccf7f81111877bc388536f7b1e498a655e3d649d19aaa010e9f6f",
+    "version_hash_a": "24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68",
+    "version_hash_b": "24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68"
+  }
+}

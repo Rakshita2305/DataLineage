@@ -1,0 +1,65 @@
+[
+  {
+    "event_type": "commit",
+    "version_id": "24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68",
+    "parent_id": "﻿null",
+    "timestamp": "2026-02-25T17:41:15+00:00",
+    "commit_message": "This is my raw data, which is related to titanic info",
+    "source_data_path": "C:\\Users\\DELL\\Downloads\\Titanic-Dataset.csv",
+    "source_config_path": "DEFAULT_CONFIG",
+    "input_hash": "7d118fef8b6ccf7f81111877bc388536f7b1e498a655e3d649d19aaa010e9f6f",
+    "config_hash": "962a7f566650b3da7f552b833b9dd1cb7ffcc817feb4e0aa869294e9c42a171e",
+    "version_hash": "24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68",
+    "row_count": 183,
+    "label_distribution": {},
+    "eval_metrics": null,
+    "preprocess_stats": {
+      "rows_before": 891,
+      "rows_after": 183,
+      "columns_before": [
+        "PassengerId",
+        "Survived",
+        "Pclass",
+        "Name",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Ticket",
+        "Fare",
+        "Cabin",
+        "Embarked"
+      ],
+      "columns_after": [
+        "passengerid",
+        "survived",
+        "pclass",
+        "name",
+        "sex",
+        "age",
+        "sibsp",
+        "parch",
+        "ticket",
+        "fare",
+        "cabin",
+        "embarked"
+      ]
+    },
+    "artifacts": {
+      "raw_snapshot": "raw_snapshot.csv",
+      "processed_snapshot": "processed.csv",
+      "config_snapshot": "config_snapshot.json",
+      "raw_archive": "raw_data\\24a8b531__Titanic-Dataset.csv"
+    }
+  },
+  {
+    "event_type": "dedupe_hit",
+    "timestamp": "2026-02-25T17:42:09+00:00",
+    "requested_source_data_path": "HEAD:24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68",
+    "requested_source_config_path": "C:\\Users\\DELL\\Downloads\\config1.json",
+    "requested_input_hash": "24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68",
+    "requested_config_hash": "cc397a8bc1833bddd4ca9f6806b2a19e628ffefe284f96dc675491a855d32253",
+    "resolved_version_id": "24a8b531b3486d2c78223a35977a97d9be205abbae2b23b9dcdc7ee842ed1b68",
+    "message": "Run recorded. No new version created; existing version reused."
+  }
+]
